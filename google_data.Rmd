@@ -126,3 +126,12 @@ ggmap(germany) +
     and their accuracy in and around Leiden")
 ```
 
+
+# Google searches
+
+```{r}
+# need to load data first
+```
+
+
+
